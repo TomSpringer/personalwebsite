@@ -1,6 +1,6 @@
 title: MrArkon
 theme: PaperMod
-baseURL: https://TomSpringer.github.io/personalwebsite
+baseURL: https://tomspringer.github.io/personalwebsite/
 relativeURLs: true
 markup: 
   goldmark: 
