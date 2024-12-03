@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TomSpringer.github.io/</loc>
+    <loc>https://tomspringer.github.io/personalwebsite/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomSpringer.github.io/projects/</loc>
+    <loc>https://tomspringer.github.io/personalwebsite/projects/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomSpringer.github.io/categories/</loc>
+    <loc>https://tomspringer.github.io/personalwebsite/categories/</loc>
   </url><url>
-    <loc>https://TomSpringer.github.io/tags/</loc>
+    <loc>https://tomspringer.github.io/personalwebsite/tags/</loc>
   </url>
 </urlset>
