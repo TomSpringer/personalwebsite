@@ -1,0 +1,46 @@
+title: MrArkon
+theme: PaperMod
+baseURL: https://TomSpringer.github.io/
+
+markup: 
+  goldmark: 
+    renderer:
+      unsafe: true
+
+assets:
+  - disableHLJS: true
+
+params:
+  description: Hello! I'm known as MrArkon on the internet. I'm a passionate hobbyist programmer hailing from India. I'm well versed in Python & Rust, but I'm always eager to expand my skillset by learning new programming languages and experimenting with cutting-edge technologies.
+  keywords:
+    - MrArkon
+    - Portfolio
+    - About
+    - Projects
+  env: production
+  defaultTheme: auto
+  homeInfoParams:
+    Title: MrArkon
+    Content: Hello! I'm known as **MrArkon** on the internet. I'm a passionate hobbyist programmer hailing from India. I'm well versed in Python & Rust, but I'm always eager to expand my skillset by learning new programming languages and experimenting with cutting-edge technologies.
+  socialIcons:
+    - name: discord
+      url: https://discord.com/users/733370212199694467
+    - name: github
+      url: https://github.com/MrArkon
+    - name: twitter
+      url: https://twitter.com/MrArkon
+    - name: youtube
+      url: https://www.youtube.com/channel/UCr-qPRkrdwWrsETXT7ztQsQ
+    - name: spotify
+      url: https://open.spotify.com/user/0qitotsixb8xkw4v2s98cc6bc
+
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: Projects
+      name: Projects
+      url: /projects
+      weight: 20
